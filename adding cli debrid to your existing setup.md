@@ -59,11 +59,10 @@ Authorize Trakt via: [https://trakt.tv/activate](https://trakt.tv/activate)
 - [Wiki](https://github.com/godver3/cli_debrid/wiki)
 - [Discord](https://discord.gg/ynqnXGJ4hU)
 
-## Optional ? - Final CLI Settings
+## Final CLI Settings
 
 
-- Add Plex URL + Token under **Debug Tab**
-- Toggle **Organize by Resolution**
+- Check Plex  status under **Debug Tab** if its green
 - Click **Start Program**
 
 ## Test Scraping
