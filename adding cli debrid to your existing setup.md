@@ -59,10 +59,10 @@ Authorize Trakt via: [https://trakt.tv/activate](https://trakt.tv/activate)
 - [Wiki](https://github.com/godver3/cli_debrid/wiki)
 - [Discord](https://discord.gg/ynqnXGJ4hU)
 
-## Final CLI Settings
+## Optional ? - Final CLI Settings
 
 
-- Add Jellyfin URL + Token under **Debug Tab**
+- Add Plex URL + Token under **Debug Tab**
 - Toggle **Organize by Resolution**
 - Click **Start Program**
 
