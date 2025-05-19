@@ -8,7 +8,11 @@
 
 <img width="720" alt="image" src="https://github.com/user-attachments/assets/99928a70-1946-4eef-837b-b97299d18629" />
 
-- in the field Mount: u fill the path to the folder where your *__all__*, Movies, Shows are ... so whenever your rclone mount your rd content on you host machine... 
+- in the field Mount: u fill the path to the folder where your 
+
+```___all___, Movies, Shows```
+
+are ... so whenever your rclone mount your rd content on you host machine... 
 
 - or where do you have your plex libraries pointed to ... for me its /mnt/user/appdata/remoteshit/ in here i have the __all__, Movies, Shows .... 
 
